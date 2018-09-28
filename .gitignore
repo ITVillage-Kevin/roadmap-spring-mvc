@@ -2,4 +2,4 @@
 out/*
 springmvc/target/*
 springmvc/lib/*
-springmvc/target/springmvc.iml
+springmvc/springmvc.iml
